@@ -1,0 +1,24 @@
+/* *-*-*-*-*-*-*-* Universal */
+* {
+  margin: 0;
+}
+
+/* *-*-*-*-*-*-*-* Type/Element/Name */
+header {
+  padding: 50px;
+}
+
+/* *-*-*-*-*-*-*-* Class */
+.header {
+  background-color: lightcoral;
+}
+
+/* *-*-*-*-*-*-*-* ID */
+#container {
+  background-color: lightpink;
+}
+
+/* *-*-*-*-*-*-*-* Attribute */
+[target="_blank"] {
+  color: white;
+}
